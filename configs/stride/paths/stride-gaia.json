@@ -10,7 +10,7 @@
     "connection-id": "connection-0"
   },
   "src-channel-filter": {
-    "rule": allowlist,
+    "rule": "allowlist",
     "channel-list": ["channel-0", "channel-694", "channel-3", "channel-4"]
   }
 }
